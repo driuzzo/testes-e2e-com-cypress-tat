@@ -3,3 +3,4 @@ import 'cypress-mailosaur'
 import 'cypress-file-upload'
 import 'cypress-iframe'
 
+require('cypress-grep')()
